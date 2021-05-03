@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "blackhawk-up-launcher",
+    "displayName": "Blackhawk Up",
+    "description": "Leave no service behind",
+    "rootNerdletId": "blackhawk-up-nerdlet"
+}

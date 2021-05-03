@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "blackhawk-up",
+    "version": "1.19.4",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "5aa02765-6c45-499e-a635-8a79dd54bf97"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.2",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
